@@ -1,0 +1,21 @@
+{
+  "name": "paper-distribution-automator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bottleneck": "^2.19.5",
+    "handlebars": "^4.7.8",
+    "hummus": "^1.0.117",
+    "nodemailer": "^6.9.15",
+    "pdf-lib": "^1.17.1",
+    "winston": "^3.15.0"
+  }
+}

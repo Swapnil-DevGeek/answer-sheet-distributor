@@ -1,0 +1,439 @@
+{"level":"info","message":"Created template file: email.html","timestamp":"2024-10-25T00:18:26.881Z"}
+{"level":"info","message":"Created template file: error-notification.html","timestamp":"2024-10-25T00:18:26.885Z"}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-10-25T00:18:26.888Z"}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-10-25T00:18:56.813Z"}
+{"level":"info","message":"Starting PDF processing script...","timestamp":"2024-10-25T00:18:56.816Z"}
+{"level":"info","message":"Starting to process 1 PDF files","timestamp":"2024-10-25T00:18:56.821Z"}
+{"level":"error","message":"Error processing 2022A7PS0181G: Failed to protect PDF: Input document to `PDFDocument.load` is encrypted. You can use `PDFDocument.load(..., { ignoreEncryption: true })` if you wish to load the document anyways.","stack":"Error: Failed to protect PDF: Input document to `PDFDocument.load` is encrypted. You can use `PDFDocument.load(..., { ignoreEncryption: true })` if you wish to load the document anyways.\n    at protectPDF (C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\index.js:150:11)\n    at async C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\index.js:248:34\n    at async Promise.allSettled (index 0)\n    at async processDirectory (C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\index.js:240:21)\n    at async main (C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\index.js:310:21)","timestamp":"2024-10-25T00:18:56.840Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 0 | Failed: 1","timestamp":"2024-10-25T00:19:04.295Z"}
+{"failed":1,"level":"info","message":"Processing completed","processed":1,"successful":0,"timestamp":"2024-10-25T00:19:04.296Z","total":1}
+{"details":[{"error":"Failed to protect PDF: Input document to `PDFDocument.load` is encrypted. You can use `PDFDocument.load(..., { ignoreEncryption: true })` if you wish to load the document anyways.","id":"2022A7PS0181G","status":"failed"}],"failed":1,"level":"info","message":"Processing completed successfully","processed":1,"successful":0,"timestamp":"2024-10-25T00:19:04.296Z","total":1}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-10-25T00:21:42.098Z"}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-10-25T00:21:47.830Z"}
+{"level":"info","message":"Starting PDF processing script...","timestamp":"2024-10-25T00:21:47.832Z"}
+{"level":"info","message":"Starting to process 1 PDF files","timestamp":"2024-10-25T00:21:47.836Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G","timestamp":"2024-10-25T00:21:55.010Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0","timestamp":"2024-10-25T00:21:55.011Z"}
+{"failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-10-25T00:21:55.013Z","total":1}
+{"details":[{"error":null,"id":"2022A7PS0181G","status":"success"}],"failed":0,"level":"info","message":"Processing completed successfully","processed":1,"successful":1,"timestamp":"2024-10-25T00:21:55.014Z","total":1}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-10-25T00:26:03.941Z"}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-10-25T00:26:08.777Z"}
+{"level":"info","message":"Starting PDF processing script...","timestamp":"2024-10-25T00:26:08.780Z"}
+{"level":"info","message":"Starting to process 1 PDF files","timestamp":"2024-10-25T00:26:08.784Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G","timestamp":"2024-10-25T00:26:16.232Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0","timestamp":"2024-10-25T00:26:16.243Z"}
+{"failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-10-25T00:26:16.246Z","total":1}
+{"details":[{"error":null,"id":"2022A7PS0181G","status":"success"}],"failed":0,"level":"info","message":"Processing completed successfully","processed":1,"successful":1,"timestamp":"2024-10-25T00:26:16.247Z","total":1}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-10-25T00:27:57.759Z"}
+{"level":"info","message":"Starting PDF processing script...","timestamp":"2024-10-25T00:27:57.763Z"}
+{"level":"info","message":"Starting to process 1 PDF files","timestamp":"2024-10-25T00:27:57.768Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G","timestamp":"2024-10-25T00:28:04.318Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0","timestamp":"2024-10-25T00:28:04.320Z"}
+{"failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-10-25T00:28:04.325Z","total":1}
+{"details":[{"error":null,"id":"2022A7PS0181G","status":"success"}],"failed":0,"level":"info","message":"Processing completed successfully","processed":1,"successful":1,"timestamp":"2024-10-25T00:28:04.326Z","total":1}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-10-25T00:37:28.596Z"}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-10-25T00:37:34.571Z"}
+{"level":"info","message":"Starting PDF processing script...","timestamp":"2024-10-25T00:37:34.574Z"}
+{"level":"info","message":"Starting to process 1 PDF files","timestamp":"2024-10-25T00:37:34.578Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G","timestamp":"2024-10-25T00:37:41.845Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0","timestamp":"2024-10-25T00:37:41.847Z"}
+{"failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-10-25T00:37:41.851Z","total":1}
+{"details":[{"error":null,"id":"2022A7PS0181G","status":"success"}],"failed":0,"level":"info","message":"Processing completed successfully","processed":1,"successful":1,"timestamp":"2024-10-25T00:37:41.852Z","total":1}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-10-25T00:41:45.267Z"}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-10-25T00:41:53.273Z"}
+{"level":"info","message":"Starting PDF processing script...","timestamp":"2024-10-25T00:41:53.282Z"}
+{"level":"info","message":"Starting to process 1 PDF files","timestamp":"2024-10-25T00:41:53.293Z"}
+{"level":"info","message":"Starting PDF protection for: 2022A7PS0181G.pdf","timestamp":"2024-10-25T00:41:53.299Z"}
+{"level":"error","message":"PDF protection error: PDF encryption verification failed","timestamp":"2024-10-25T00:41:53.368Z"}
+{"level":"error","message":"Error processing 2022A7PS0181G: Failed to protect PDF: PDF encryption verification failed","stack":"Error: Failed to protect PDF: PDF encryption verification failed\n    at protectPDF (C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\index.js:185:11)\n    at async C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\index.js:300:34\n    at async Promise.allSettled (index 0)\n    at async processDirectory (C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\index.js:292:21)\n    at async main (C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\index.js:370:21)","timestamp":"2024-10-25T00:41:53.372Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 0 | Failed: 1","timestamp":"2024-10-25T00:42:03.356Z"}
+{"failed":1,"level":"info","message":"Processing completed","processed":1,"successful":0,"timestamp":"2024-10-25T00:42:03.357Z","total":1}
+{"details":[{"error":"Failed to protect PDF: PDF encryption verification failed","id":"2022A7PS0181G","status":"failed"}],"failed":1,"level":"info","message":"Processing completed successfully","processed":1,"successful":0,"timestamp":"2024-10-25T00:42:03.358Z","total":1}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-10-25T00:42:30.910Z"}
+{"level":"info","message":"Starting PDF processing script...","timestamp":"2024-10-25T00:42:30.914Z"}
+{"level":"info","message":"Starting to process 1 PDF files","timestamp":"2024-10-25T00:42:30.920Z"}
+{"level":"info","message":"Starting PDF protection for: 2022A7PS0181G.pdf","timestamp":"2024-10-25T00:42:30.921Z"}
+{"level":"error","message":"PDF protection error: PDF encryption verification failed","timestamp":"2024-10-25T00:42:30.959Z"}
+{"level":"error","message":"Error processing 2022A7PS0181G: Failed to protect PDF: PDF encryption verification failed","stack":"Error: Failed to protect PDF: PDF encryption verification failed\n    at protectPDF (C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\index.js:185:11)\n    at async C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\index.js:300:34\n    at async Promise.allSettled (index 0)\n    at async processDirectory (C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\index.js:292:21)\n    at async main (C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\index.js:370:21)","timestamp":"2024-10-25T00:42:30.961Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 0 | Failed: 1","timestamp":"2024-10-25T00:42:36.533Z"}
+{"failed":1,"level":"info","message":"Processing completed","processed":1,"successful":0,"timestamp":"2024-10-25T00:42:36.534Z","total":1}
+{"details":[{"error":"Failed to protect PDF: PDF encryption verification failed","id":"2022A7PS0181G","status":"failed"}],"failed":1,"level":"info","message":"Processing completed successfully","processed":1,"successful":0,"timestamp":"2024-10-25T00:42:36.534Z","total":1}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-10-25T00:44:28.403Z"}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-10-25T00:44:42.023Z"}
+{"level":"info","message":"Starting PDF processing script...","timestamp":"2024-10-25T00:44:42.026Z"}
+{"level":"info","message":"Starting to process 1 PDF files","timestamp":"2024-10-25T00:44:42.029Z"}
+{"level":"info","message":"Starting PDF protection for: 2022A7PS0181G.pdf","timestamp":"2024-10-25T00:44:42.031Z"}
+{"level":"info","message":"Protected PDF saved to: answer-sheets\\2022A7PS0181G_protected.pdf","timestamp":"2024-10-25T00:44:42.077Z"}
+{"level":"error","message":"Error processing 2022A7PS0181G: PDF protection verification failed","stack":"Error: PDF protection verification failed\n    at C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\index.js:310:17\n    at async Promise.allSettled (index 0)\n    at async processDirectory (C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\index.js:295:21)\n    at async main (C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\index.js:373:21)","timestamp":"2024-10-25T00:44:42.096Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 0 | Failed: 1","timestamp":"2024-10-25T00:44:52.108Z"}
+{"failed":1,"level":"info","message":"Processing completed","processed":1,"successful":0,"timestamp":"2024-10-25T00:44:52.109Z","total":1}
+{"details":[{"error":"PDF protection verification failed","id":"2022A7PS0181G","status":"failed"}],"failed":1,"level":"info","message":"Processing completed successfully","processed":1,"successful":0,"timestamp":"2024-10-25T00:44:52.110Z","total":1}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-10-25T00:45:31.560Z"}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-10-25T00:45:36.221Z"}
+{"level":"info","message":"Starting PDF processing script...","timestamp":"2024-10-25T00:45:36.225Z"}
+{"level":"info","message":"Starting to process 1 PDF files","timestamp":"2024-10-25T00:45:36.228Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G","timestamp":"2024-10-25T00:45:42.918Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0","timestamp":"2024-10-25T00:45:42.919Z"}
+{"failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-10-25T00:45:42.922Z","total":1}
+{"details":[{"error":null,"id":"2022A7PS0181G","status":"success"}],"failed":0,"level":"info","message":"Processing completed successfully","processed":1,"successful":1,"timestamp":"2024-10-25T00:45:42.922Z","total":1}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-10-25T00:47:54.558Z"}
+{"level":"info","message":"Starting PDF processing script...","timestamp":"2024-10-25T00:47:54.562Z"}
+{"level":"info","message":"Starting to process 1 PDF files","timestamp":"2024-10-25T00:47:54.571Z"}
+{"level":"info","message":"Starting PDF protection for: 2022A7PS0181G.pdf","timestamp":"2024-10-25T00:47:54.573Z"}
+{"level":"info","message":"Protected PDF saved to: answer-sheets\\2022A7PS0181G_protected.pdf","timestamp":"2024-10-25T00:47:54.610Z"}
+{"level":"error","message":"Error processing 2022A7PS0181G: PDF protection verification failed","stack":"Error: PDF protection verification failed\n    at C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\index.js:310:17\n    at async Promise.allSettled (index 0)\n    at async processDirectory (C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\index.js:295:21)\n    at async main (C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\index.js:373:21)","timestamp":"2024-10-25T00:47:54.626Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 0 | Failed: 1","timestamp":"2024-10-25T00:48:06.299Z"}
+{"failed":1,"level":"info","message":"Processing completed","processed":1,"successful":0,"timestamp":"2024-10-25T00:48:06.300Z","total":1}
+{"details":[{"error":"PDF protection verification failed","id":"2022A7PS0181G","status":"failed"}],"failed":1,"level":"info","message":"Processing completed successfully","processed":1,"successful":0,"timestamp":"2024-10-25T00:48:06.301Z","total":1}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-10-25T00:49:23.359Z"}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-10-25T00:49:29.861Z"}
+{"level":"info","message":"Starting PDF processing script...","timestamp":"2024-10-25T00:49:29.864Z"}
+{"level":"info","message":"Starting to process 2 PDF files","timestamp":"2024-10-25T00:49:29.868Z"}
+{"level":"info","message":"Starting PDF protection for: 2022A7PS0181G.pdf","timestamp":"2024-10-25T00:49:29.869Z"}
+{"level":"info","message":"Protected PDF saved to: answer-sheets\\2022A7PS0181G_protected.pdf","timestamp":"2024-10-25T00:49:29.913Z"}
+{"level":"error","message":"Error processing 2022A7PS0181G: PDF protection verification failed","stack":"Error: PDF protection verification failed\n    at C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\index.js:309:17\n    at async Promise.allSettled (index 0)\n    at async processDirectory (C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\index.js:294:21)\n    at async main (C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\index.js:372:21)","timestamp":"2024-10-25T00:49:29.924Z"}
+{"level":"info","message":"Progress: 50.00% (1/2) | Success: 0 | Failed: 1","timestamp":"2024-10-25T00:49:37.042Z"}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-10-25T00:53:59.615Z"}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-10-25T00:54:42.580Z"}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-10-25T00:55:07.973Z"}
+{"level":"info","message":"Starting PDF processing script...","timestamp":"2024-10-25T00:55:07.976Z"}
+{"level":"info","message":"Starting to process 1 PDF files","timestamp":"2024-10-25T00:55:07.984Z"}
+{"level":"info","message":"Preparing to send email for student: 2022A7PS0181G","timestamp":"2024-10-25T00:55:07.986Z"}
+{"level":"info","message":"Email sent successfully to f20220181@goa.bits-pilani.ac.in","timestamp":"2024-10-25T00:55:16.269Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G","timestamp":"2024-10-25T00:55:16.270Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0","timestamp":"2024-10-25T00:55:16.272Z"}
+{"failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-10-25T00:55:16.273Z","total":1}
+{"details":[{"error":null,"id":"2022A7PS0181G","status":"success"}],"failed":0,"level":"info","message":"Processing completed successfully","processed":1,"successful":1,"timestamp":"2024-10-25T00:55:16.274Z","total":1}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-10-25T01:01:44.992Z"}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-10-25T01:01:50.411Z"}
+{"level":"info","message":"Starting PDF processing script...","timestamp":"2024-10-25T01:01:50.414Z"}
+{"level":"info","message":"Starting to process 3 PDF files","timestamp":"2024-10-25T01:01:50.421Z"}
+{"level":"info","message":"Preparing to send email for student: 2022A7PS0181G","timestamp":"2024-10-25T01:01:50.423Z"}
+{"level":"info","message":"Preparing to send email for student: 2022A7PS1255G","timestamp":"2024-10-25T01:01:50.440Z"}
+{"level":"info","message":"Preparing to send email for student: 2022A7PS1274G","timestamp":"2024-10-25T01:01:50.441Z"}
+{"level":"info","message":"Email sent successfully to f20221274@goa.bits-pilani.ac.in","timestamp":"2024-10-25T01:02:01.216Z"}
+{"level":"info","message":"Successfully processed 2022A7PS1274G","timestamp":"2024-10-25T01:02:01.217Z"}
+{"level":"info","message":"Progress: 33.33% (1/3) | Success: 1 | Failed: 0","timestamp":"2024-10-25T01:02:01.221Z"}
+{"level":"info","message":"Email sent successfully to f20220181@goa.bits-pilani.ac.in","timestamp":"2024-10-25T01:02:02.633Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G","timestamp":"2024-10-25T01:02:02.634Z"}
+{"level":"info","message":"Progress: 66.67% (2/3) | Success: 2 | Failed: 0","timestamp":"2024-10-25T01:02:02.634Z"}
+{"level":"info","message":"Email sent successfully to f20221255@goa.bits-pilani.ac.in","timestamp":"2024-10-25T01:02:04.039Z"}
+{"level":"info","message":"Successfully processed 2022A7PS1255G","timestamp":"2024-10-25T01:02:04.041Z"}
+{"level":"info","message":"Progress: 100.00% (3/3) | Success: 3 | Failed: 0","timestamp":"2024-10-25T01:02:04.042Z"}
+{"failed":0,"level":"info","message":"Processing completed","processed":3,"successful":3,"timestamp":"2024-10-25T01:02:04.043Z","total":3}
+{"details":[{"error":null,"id":"2022A7PS0181G","status":"success"},{"error":null,"id":"2022A7PS1255G","status":"success"},{"error":null,"id":"2022A7PS1274G","status":"success"}],"failed":0,"level":"info","message":"Processing completed successfully","processed":3,"successful":3,"timestamp":"2024-10-25T01:02:04.043Z","total":3}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-10-25T08:27:33.129Z"}
+{"level":"info","message":"Starting PDF processing script...","timestamp":"2024-10-25T08:27:33.133Z"}
+{"level":"info","message":"Starting to process 1 PDF files","timestamp":"2024-10-25T08:27:33.135Z"}
+{"level":"error","message":"Email sending error for f20220181@goa.bits-pilani.ac.in: pdfDoc.encrypt is not a function","timestamp":"2024-10-25T08:27:33.167Z"}
+{"level":"error","message":"Error processing 2022A7PS0181G: pdfDoc.encrypt is not a function","stack":"TypeError: pdfDoc.encrypt is not a function\n    at protectPDF (C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\server.js:157:10)\n    at async sendEmail (C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\server.js:177:30)\n    at async C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\server.js:235:9\n    at async Promise.allSettled (index 0)\n    at async processDirectory (C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\server.js:228:21)\n    at async main (C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\server.js:291:21)","timestamp":"2024-10-25T08:27:33.169Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 0 | Failed: 1","timestamp":"2024-10-25T08:27:41.329Z"}
+{"failed":1,"level":"info","message":"Processing completed","processed":1,"successful":0,"timestamp":"2024-10-25T08:27:41.331Z","total":1}
+{"details":[{"error":"pdfDoc.encrypt is not a function","id":"2022A7PS0181G","status":"failed"}],"failed":1,"level":"info","message":"Processing completed successfully","processed":1,"successful":0,"timestamp":"2024-10-25T08:27:41.332Z","total":1}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-10-25T08:38:36.955Z"}
+{"level":"info","message":"Starting PDF processing script...","timestamp":"2024-10-25T08:38:36.960Z"}
+{"level":"info","message":"Starting to process 1 PDF files","timestamp":"2024-10-25T08:38:36.964Z"}
+{"level":"error","message":"Email sending error for f20220181@goa.bits-pilani.ac.in: Failed to protect PDF with password: Command failed: qpdf --encrypt f20222022A7PS0181G f20222022A7PS0181G 256 -- answer-sheets\\2022A7PS0181G.pdf answer-sheets\\2022A7PS0181G_protected.pdf\n'qpdf' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n","timestamp":"2024-10-25T08:38:37.082Z"}
+{"level":"error","message":"Error processing 2022A7PS0181G: Failed to protect PDF with password: Command failed: qpdf --encrypt f20222022A7PS0181G f20222022A7PS0181G 256 -- answer-sheets\\2022A7PS0181G.pdf answer-sheets\\2022A7PS0181G_protected.pdf\n'qpdf' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n","stack":"Error: Failed to protect PDF with password: Command failed: qpdf --encrypt f20222022A7PS0181G f20222022A7PS0181G 256 -- answer-sheets\\2022A7PS0181G.pdf answer-sheets\\2022A7PS0181G_protected.pdf\n'qpdf' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n\n    at protectPDF (C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\server.js:162:11)\n    at sendEmail (C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\server.js:169:30)\n    at C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\server.js:228:15\n    at Array.map (<anonymous>)\n    at processDirectory (C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\server.js:221:55)\n    at async main (C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\server.js:284:21)","timestamp":"2024-10-25T08:38:37.085Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 0 | Failed: 1","timestamp":"2024-10-25T08:39:12.302Z"}
+{"failed":1,"level":"info","message":"Processing completed","processed":1,"successful":0,"timestamp":"2024-10-25T08:39:12.304Z","total":1}
+{"details":[{"error":"Failed to protect PDF with password: Command failed: qpdf --encrypt f20222022A7PS0181G f20222022A7PS0181G 256 -- answer-sheets\\2022A7PS0181G.pdf answer-sheets\\2022A7PS0181G_protected.pdf\n'qpdf' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n","id":"2022A7PS0181G","status":"failed"}],"failed":1,"level":"info","message":"Processing completed successfully","processed":1,"successful":0,"timestamp":"2024-10-25T08:39:12.305Z","total":1}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-11-20T07:01:59.339Z"}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-11-20T07:02:08.050Z"}
+{"level":"info","message":"Starting PDF processing script...","timestamp":"2024-11-20T07:02:08.054Z"}
+{"level":"info","message":"Starting to process 1 PDF files","timestamp":"2024-11-20T07:02:08.058Z"}
+{"level":"info","message":"Successfully processed 2022A7PS1274G","timestamp":"2024-11-20T07:02:20.898Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0","timestamp":"2024-11-20T07:02:20.907Z"}
+{"failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-11-20T07:02:20.910Z","total":1}
+{"details":[{"error":null,"id":"2022A7PS1274G","status":"success"}],"failed":0,"level":"info","message":"Processing completed successfully","processed":1,"successful":1,"timestamp":"2024-11-20T07:02:20.912Z","total":1}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-11-25T09:00:22.305Z"}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-11-25T09:03:29.098Z"}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-11-25T09:04:25.206Z"}
+{"level":"info","message":"Starting PDF processing script...","timestamp":"2024-11-25T09:04:25.208Z"}
+{"level":"info","message":"Starting to process 1 PDF files","timestamp":"2024-11-25T09:04:25.211Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G","timestamp":"2024-11-25T09:04:41.919Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0","timestamp":"2024-11-25T09:04:41.923Z"}
+{"failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-11-25T09:04:41.926Z","total":1}
+{"details":[{"error":null,"id":"2022A7PS0181G","status":"success"}],"failed":0,"level":"info","message":"Processing completed successfully","processed":1,"successful":1,"timestamp":"2024-11-25T09:04:41.927Z","total":1}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-11-25T09:09:52.895Z"}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-11-25T09:10:04.163Z"}
+{"level":"info","message":"Starting PDF processing script...","timestamp":"2024-11-25T09:10:04.165Z"}
+{"level":"info","message":"Starting batch 1/100","timestamp":"2024-11-25T09:10:04.166Z"}
+{"level":"info","message":"Starting to process 1 PDF files at 2024-11-25T09:10:04.169Z","timestamp":"2024-11-25T09:10:04.169Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 27.69s","timestamp":"2024-11-25T09:10:31.857Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0 | Time: 0h 0m 27s","timestamp":"2024-11-25T09:10:31.858Z"}
+{"averageTimePerEmail":"27.69s","failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-11-25T09:10:31.862Z","total":1,"totalTime":"0h 0m 27s"}
+{"level":"info","message":"Batch 1 completed in 27.70s","timestamp":"2024-11-25T09:10:31.866Z"}
+{"level":"info","message":"Starting batch 2/100","timestamp":"2024-11-25T09:10:31.867Z"}
+{"level":"info","message":"Starting to process 1 PDF files at 2024-11-25T09:10:31.868Z","timestamp":"2024-11-25T09:10:31.868Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 17.68s","timestamp":"2024-11-25T09:10:49.551Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0 | Time: 0h 0m 17s","timestamp":"2024-11-25T09:10:49.552Z"}
+{"averageTimePerEmail":"17.69s","failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-11-25T09:10:49.555Z","total":1,"totalTime":"0h 0m 17s"}
+{"level":"info","message":"Batch 2 completed in 17.69s","timestamp":"2024-11-25T09:10:49.558Z"}
+{"level":"info","message":"Starting batch 3/100","timestamp":"2024-11-25T09:10:49.559Z"}
+{"level":"info","message":"Starting to process 1 PDF files at 2024-11-25T09:10:49.560Z","timestamp":"2024-11-25T09:10:49.560Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 16.11s","timestamp":"2024-11-25T09:11:05.674Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0 | Time: 0h 0m 16s","timestamp":"2024-11-25T09:11:05.675Z"}
+{"averageTimePerEmail":"16.12s","failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-11-25T09:11:05.676Z","total":1,"totalTime":"0h 0m 16s"}
+{"level":"info","message":"Batch 3 completed in 16.12s","timestamp":"2024-11-25T09:11:05.678Z"}
+{"level":"info","message":"Starting batch 4/100","timestamp":"2024-11-25T09:11:05.679Z"}
+{"level":"info","message":"Starting to process 1 PDF files at 2024-11-25T09:11:05.679Z","timestamp":"2024-11-25T09:11:05.679Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 16.83s","timestamp":"2024-11-25T09:11:22.506Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0 | Time: 0h 0m 16s","timestamp":"2024-11-25T09:11:22.507Z"}
+{"averageTimePerEmail":"16.83s","failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-11-25T09:11:22.510Z","total":1,"totalTime":"0h 0m 16s"}
+{"level":"info","message":"Batch 4 completed in 16.83s","timestamp":"2024-11-25T09:11:22.512Z"}
+{"level":"info","message":"Starting batch 5/100","timestamp":"2024-11-25T09:11:22.512Z"}
+{"level":"info","message":"Starting to process 1 PDF files at 2024-11-25T09:11:22.513Z","timestamp":"2024-11-25T09:11:22.513Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 29.58s","timestamp":"2024-11-25T09:11:52.094Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0 | Time: 0h 0m 29s","timestamp":"2024-11-25T09:11:52.096Z"}
+{"averageTimePerEmail":"29.59s","failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-11-25T09:11:52.098Z","total":1,"totalTime":"0h 0m 29s"}
+{"level":"info","message":"Batch 5 completed in 29.59s","timestamp":"2024-11-25T09:11:52.102Z"}
+{"level":"info","message":"Starting batch 6/100","timestamp":"2024-11-25T09:11:52.103Z"}
+{"level":"info","message":"Starting to process 1 PDF files at 2024-11-25T09:11:52.105Z","timestamp":"2024-11-25T09:11:52.105Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 16.51s","timestamp":"2024-11-25T09:12:08.619Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0 | Time: 0h 0m 16s","timestamp":"2024-11-25T09:12:08.619Z"}
+{"averageTimePerEmail":"16.52s","failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-11-25T09:12:08.621Z","total":1,"totalTime":"0h 0m 16s"}
+{"level":"info","message":"Batch 6 completed in 16.52s","timestamp":"2024-11-25T09:12:08.623Z"}
+{"level":"info","message":"Starting batch 7/100","timestamp":"2024-11-25T09:12:08.624Z"}
+{"level":"info","message":"Starting to process 1 PDF files at 2024-11-25T09:12:08.626Z","timestamp":"2024-11-25T09:12:08.626Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 16.99s","timestamp":"2024-11-25T09:12:25.613Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0 | Time: 0h 0m 16s","timestamp":"2024-11-25T09:12:25.614Z"}
+{"averageTimePerEmail":"16.99s","failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-11-25T09:12:25.615Z","total":1,"totalTime":"0h 0m 16s"}
+{"level":"info","message":"Batch 7 completed in 16.99s","timestamp":"2024-11-25T09:12:25.618Z"}
+{"level":"info","message":"Starting batch 8/100","timestamp":"2024-11-25T09:12:25.618Z"}
+{"level":"info","message":"Starting to process 1 PDF files at 2024-11-25T09:12:25.619Z","timestamp":"2024-11-25T09:12:25.620Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 18.50s","timestamp":"2024-11-25T09:12:44.115Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0 | Time: 0h 0m 18s","timestamp":"2024-11-25T09:12:44.116Z"}
+{"averageTimePerEmail":"18.50s","failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-11-25T09:12:44.118Z","total":1,"totalTime":"0h 0m 18s"}
+{"level":"info","message":"Batch 8 completed in 18.50s","timestamp":"2024-11-25T09:12:44.122Z"}
+{"level":"info","message":"Starting batch 9/100","timestamp":"2024-11-25T09:12:44.123Z"}
+{"level":"info","message":"Starting to process 1 PDF files at 2024-11-25T09:12:44.125Z","timestamp":"2024-11-25T09:12:44.125Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 17.48s","timestamp":"2024-11-25T09:13:01.601Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0 | Time: 0h 0m 17s","timestamp":"2024-11-25T09:13:01.601Z"}
+{"averageTimePerEmail":"17.48s","failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-11-25T09:13:01.603Z","total":1,"totalTime":"0h 0m 17s"}
+{"level":"info","message":"Batch 9 completed in 17.48s","timestamp":"2024-11-25T09:13:01.606Z"}
+{"level":"info","message":"Starting batch 10/100","timestamp":"2024-11-25T09:13:01.607Z"}
+{"level":"info","message":"Starting to process 1 PDF files at 2024-11-25T09:13:01.609Z","timestamp":"2024-11-25T09:13:01.609Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 13.93s","timestamp":"2024-11-25T09:13:15.544Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0 | Time: 0h 0m 13s","timestamp":"2024-11-25T09:13:15.547Z"}
+{"averageTimePerEmail":"13.95s","failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-11-25T09:13:15.563Z","total":1,"totalTime":"0h 0m 13s"}
+{"level":"info","message":"Batch 10 completed in 13.97s","timestamp":"2024-11-25T09:13:15.582Z"}
+{"level":"info","message":"Starting batch 11/100","timestamp":"2024-11-25T09:13:15.597Z"}
+{"level":"info","message":"Starting to process 1 PDF files at 2024-11-25T09:13:15.603Z","timestamp":"2024-11-25T09:13:15.603Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 14.76s","timestamp":"2024-11-25T09:13:30.366Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0 | Time: 0h 0m 14s","timestamp":"2024-11-25T09:13:30.367Z"}
+{"averageTimePerEmail":"14.78s","failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-11-25T09:13:30.386Z","total":1,"totalTime":"0h 0m 14s"}
+{"level":"info","message":"Batch 11 completed in 14.80s","timestamp":"2024-11-25T09:13:30.399Z"}
+{"level":"info","message":"Starting batch 12/100","timestamp":"2024-11-25T09:13:30.410Z"}
+{"level":"info","message":"Starting to process 1 PDF files at 2024-11-25T09:13:30.419Z","timestamp":"2024-11-25T09:13:30.419Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 14.57s","timestamp":"2024-11-25T09:13:45.010Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0 | Time: 0h 0m 14s","timestamp":"2024-11-25T09:13:45.011Z"}
+{"averageTimePerEmail":"14.59s","failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-11-25T09:13:45.012Z","total":1,"totalTime":"0h 0m 14s"}
+{"level":"info","message":"Batch 12 completed in 14.60s","timestamp":"2024-11-25T09:13:45.015Z"}
+{"level":"info","message":"Starting batch 13/100","timestamp":"2024-11-25T09:13:45.016Z"}
+{"level":"info","message":"Starting to process 1 PDF files at 2024-11-25T09:13:45.016Z","timestamp":"2024-11-25T09:13:45.016Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 13.93s","timestamp":"2024-11-25T09:13:58.947Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0 | Time: 0h 0m 13s","timestamp":"2024-11-25T09:13:58.948Z"}
+{"averageTimePerEmail":"13.93s","failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-11-25T09:13:58.949Z","total":1,"totalTime":"0h 0m 13s"}
+{"level":"info","message":"Batch 13 completed in 13.94s","timestamp":"2024-11-25T09:13:58.952Z"}
+{"level":"info","message":"Starting batch 14/100","timestamp":"2024-11-25T09:13:58.953Z"}
+{"level":"info","message":"Starting to process 1 PDF files at 2024-11-25T09:13:58.954Z","timestamp":"2024-11-25T09:13:58.954Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 14.35s","timestamp":"2024-11-25T09:14:13.308Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0 | Time: 0h 0m 14s","timestamp":"2024-11-25T09:14:13.308Z"}
+{"averageTimePerEmail":"14.36s","failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-11-25T09:14:13.310Z","total":1,"totalTime":"0h 0m 14s"}
+{"level":"info","message":"Batch 14 completed in 14.36s","timestamp":"2024-11-25T09:14:13.312Z"}
+{"level":"info","message":"Starting batch 15/100","timestamp":"2024-11-25T09:14:13.313Z"}
+{"level":"info","message":"Starting to process 1 PDF files at 2024-11-25T09:14:13.314Z","timestamp":"2024-11-25T09:14:13.314Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 16.52s","timestamp":"2024-11-25T09:14:29.839Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0 | Time: 0h 0m 16s","timestamp":"2024-11-25T09:14:29.841Z"}
+{"averageTimePerEmail":"16.53s","failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-11-25T09:14:29.843Z","total":1,"totalTime":"0h 0m 16s"}
+{"level":"info","message":"Batch 15 completed in 16.53s","timestamp":"2024-11-25T09:14:29.847Z"}
+{"level":"info","message":"Starting batch 16/100","timestamp":"2024-11-25T09:14:29.848Z"}
+{"level":"info","message":"Starting to process 1 PDF files at 2024-11-25T09:14:29.849Z","timestamp":"2024-11-25T09:14:29.849Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 12.71s","timestamp":"2024-11-25T09:14:42.560Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0 | Time: 0h 0m 12s","timestamp":"2024-11-25T09:14:42.561Z"}
+{"averageTimePerEmail":"12.71s","failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-11-25T09:14:42.563Z","total":1,"totalTime":"0h 0m 12s"}
+{"level":"info","message":"Batch 16 completed in 12.72s","timestamp":"2024-11-25T09:14:42.567Z"}
+{"level":"info","message":"Starting batch 17/100","timestamp":"2024-11-25T09:14:42.568Z"}
+{"level":"info","message":"Starting to process 1 PDF files at 2024-11-25T09:14:42.569Z","timestamp":"2024-11-25T09:14:42.569Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 13.54s","timestamp":"2024-11-25T09:14:56.106Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0 | Time: 0h 0m 13s","timestamp":"2024-11-25T09:14:56.107Z"}
+{"averageTimePerEmail":"13.54s","failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-11-25T09:14:56.108Z","total":1,"totalTime":"0h 0m 13s"}
+{"level":"info","message":"Batch 17 completed in 13.54s","timestamp":"2024-11-25T09:14:56.111Z"}
+{"level":"info","message":"Starting batch 18/100","timestamp":"2024-11-25T09:14:56.111Z"}
+{"level":"info","message":"Starting to process 1 PDF files at 2024-11-25T09:14:56.113Z","timestamp":"2024-11-25T09:14:56.113Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 24.53s","timestamp":"2024-11-25T09:15:20.639Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0 | Time: 0h 0m 24s","timestamp":"2024-11-25T09:15:20.641Z"}
+{"averageTimePerEmail":"24.53s","failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-11-25T09:15:20.644Z","total":1,"totalTime":"0h 0m 24s"}
+{"level":"info","message":"Batch 18 completed in 24.54s","timestamp":"2024-11-25T09:15:20.648Z"}
+{"level":"info","message":"Starting batch 19/100","timestamp":"2024-11-25T09:15:20.648Z"}
+{"level":"info","message":"Starting to process 1 PDF files at 2024-11-25T09:15:20.649Z","timestamp":"2024-11-25T09:15:20.649Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 41.62s","timestamp":"2024-11-25T09:16:02.271Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0 | Time: 0h 0m 41s","timestamp":"2024-11-25T09:16:02.272Z"}
+{"averageTimePerEmail":"41.63s","failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-11-25T09:16:02.275Z","total":1,"totalTime":"0h 0m 41s"}
+{"level":"info","message":"Batch 19 completed in 41.63s","timestamp":"2024-11-25T09:16:02.278Z"}
+{"level":"info","message":"Starting batch 20/100","timestamp":"2024-11-25T09:16:02.279Z"}
+{"level":"info","message":"Starting to process 1 PDF files at 2024-11-25T09:16:02.281Z","timestamp":"2024-11-25T09:16:02.281Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 45.14s","timestamp":"2024-11-25T09:16:47.420Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0 | Time: 0h 0m 45s","timestamp":"2024-11-25T09:16:47.421Z"}
+{"averageTimePerEmail":"45.14s","failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-11-25T09:16:47.423Z","total":1,"totalTime":"0h 0m 45s"}
+{"level":"info","message":"Batch 20 completed in 45.15s","timestamp":"2024-11-25T09:16:47.426Z"}
+{"level":"info","message":"Starting batch 21/100","timestamp":"2024-11-25T09:16:47.427Z"}
+{"level":"info","message":"Starting to process 1 PDF files at 2024-11-25T09:16:47.428Z","timestamp":"2024-11-25T09:16:47.428Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 24.88s","timestamp":"2024-11-25T09:17:12.306Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0 | Time: 0h 0m 24s","timestamp":"2024-11-25T09:17:12.308Z"}
+{"averageTimePerEmail":"24.88s","failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-11-25T09:17:12.311Z","total":1,"totalTime":"0h 0m 24s"}
+{"level":"info","message":"Batch 21 completed in 24.89s","timestamp":"2024-11-25T09:17:12.315Z"}
+{"level":"info","message":"Starting batch 22/100","timestamp":"2024-11-25T09:17:12.315Z"}
+{"level":"info","message":"Starting to process 1 PDF files at 2024-11-25T09:17:12.317Z","timestamp":"2024-11-25T09:17:12.317Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 29.06s","timestamp":"2024-11-25T09:17:41.374Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0 | Time: 0h 0m 29s","timestamp":"2024-11-25T09:17:41.374Z"}
+{"averageTimePerEmail":"29.06s","failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-11-25T09:17:41.375Z","total":1,"totalTime":"0h 0m 29s"}
+{"level":"info","message":"Batch 22 completed in 29.06s","timestamp":"2024-11-25T09:17:41.377Z"}
+{"level":"info","message":"Starting batch 23/100","timestamp":"2024-11-25T09:17:41.377Z"}
+{"level":"info","message":"Starting to process 1 PDF files at 2024-11-25T09:17:41.378Z","timestamp":"2024-11-25T09:17:41.378Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 20.07s","timestamp":"2024-11-25T09:18:01.451Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0 | Time: 0h 0m 20s","timestamp":"2024-11-25T09:18:01.452Z"}
+{"averageTimePerEmail":"20.07s","failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-11-25T09:18:01.453Z","total":1,"totalTime":"0h 0m 20s"}
+{"level":"info","message":"Batch 23 completed in 20.08s","timestamp":"2024-11-25T09:18:01.454Z"}
+{"level":"info","message":"Starting batch 24/100","timestamp":"2024-11-25T09:18:01.454Z"}
+{"level":"info","message":"Starting to process 1 PDF files at 2024-11-25T09:18:01.455Z","timestamp":"2024-11-25T09:18:01.455Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 53.98s","timestamp":"2024-11-25T09:18:55.440Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0 | Time: 0h 0m 53s","timestamp":"2024-11-25T09:18:55.441Z"}
+{"averageTimePerEmail":"53.99s","failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-11-25T09:18:55.442Z","total":1,"totalTime":"0h 0m 53s"}
+{"level":"info","message":"Batch 24 completed in 53.99s","timestamp":"2024-11-25T09:18:55.445Z"}
+{"level":"info","message":"Starting batch 25/100","timestamp":"2024-11-25T09:18:55.445Z"}
+{"level":"info","message":"Starting to process 1 PDF files at 2024-11-25T09:18:55.447Z","timestamp":"2024-11-25T09:18:55.447Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 54.28s","timestamp":"2024-11-25T09:19:49.730Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0 | Time: 0h 0m 54s","timestamp":"2024-11-25T09:19:49.730Z"}
+{"averageTimePerEmail":"54.28s","failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-11-25T09:19:49.731Z","total":1,"totalTime":"0h 0m 54s"}
+{"level":"info","message":"Batch 25 completed in 54.29s","timestamp":"2024-11-25T09:19:49.733Z"}
+{"level":"info","message":"Starting batch 26/100","timestamp":"2024-11-25T09:19:49.734Z"}
+{"level":"info","message":"Starting to process 1 PDF files at 2024-11-25T09:19:49.734Z","timestamp":"2024-11-25T09:19:49.734Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 53.11s","timestamp":"2024-11-25T09:20:42.842Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0 | Time: 0h 0m 53s","timestamp":"2024-11-25T09:20:42.843Z"}
+{"averageTimePerEmail":"53.11s","failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-11-25T09:20:42.844Z","total":1,"totalTime":"0h 0m 53s"}
+{"level":"info","message":"Batch 26 completed in 53.11s","timestamp":"2024-11-25T09:20:42.847Z"}
+{"level":"info","message":"Starting batch 27/100","timestamp":"2024-11-25T09:20:42.848Z"}
+{"level":"info","message":"Starting to process 1 PDF files at 2024-11-25T09:20:42.849Z","timestamp":"2024-11-25T09:20:42.849Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 31.35s","timestamp":"2024-11-25T09:21:14.204Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0 | Time: 0h 0m 31s","timestamp":"2024-11-25T09:21:14.205Z"}
+{"averageTimePerEmail":"31.36s","failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-11-25T09:21:14.208Z","total":1,"totalTime":"0h 0m 31s"}
+{"level":"info","message":"Batch 27 completed in 31.36s","timestamp":"2024-11-25T09:21:14.211Z"}
+{"level":"info","message":"Starting batch 28/100","timestamp":"2024-11-25T09:21:14.211Z"}
+{"level":"info","message":"Starting to process 1 PDF files at 2024-11-25T09:21:14.212Z","timestamp":"2024-11-25T09:21:14.212Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 40.21s","timestamp":"2024-11-25T09:21:54.426Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0 | Time: 0h 0m 40s","timestamp":"2024-11-25T09:21:54.426Z"}
+{"averageTimePerEmail":"40.22s","failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-11-25T09:21:54.428Z","total":1,"totalTime":"0h 0m 40s"}
+{"level":"info","message":"Batch 28 completed in 40.22s","timestamp":"2024-11-25T09:21:54.430Z"}
+{"level":"info","message":"Starting batch 29/100","timestamp":"2024-11-25T09:21:54.431Z"}
+{"level":"info","message":"Starting to process 1 PDF files at 2024-11-25T09:21:54.432Z","timestamp":"2024-11-25T09:21:54.432Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 52.12s","timestamp":"2024-11-25T09:22:46.555Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0 | Time: 0h 0m 52s","timestamp":"2024-11-25T09:22:46.555Z"}
+{"averageTimePerEmail":"52.13s","failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-11-25T09:22:46.557Z","total":1,"totalTime":"0h 0m 52s"}
+{"level":"info","message":"Batch 29 completed in 52.13s","timestamp":"2024-11-25T09:22:46.559Z"}
+{"level":"info","message":"Starting batch 30/100","timestamp":"2024-11-25T09:22:46.559Z"}
+{"level":"info","message":"Starting to process 1 PDF files at 2024-11-25T09:22:46.560Z","timestamp":"2024-11-25T09:22:46.560Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 35.08s","timestamp":"2024-11-25T09:23:21.641Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0 | Time: 0h 0m 35s","timestamp":"2024-11-25T09:23:21.642Z"}
+{"averageTimePerEmail":"35.08s","failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-11-25T09:23:21.643Z","total":1,"totalTime":"0h 0m 35s"}
+{"level":"info","message":"Batch 30 completed in 35.09s","timestamp":"2024-11-25T09:23:21.645Z"}
+{"level":"info","message":"Starting batch 31/100","timestamp":"2024-11-25T09:23:21.646Z"}
+{"level":"info","message":"Starting to process 1 PDF files at 2024-11-25T09:23:21.647Z","timestamp":"2024-11-25T09:23:21.647Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 35.29s","timestamp":"2024-11-25T09:23:56.937Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0 | Time: 0h 0m 35s","timestamp":"2024-11-25T09:23:56.937Z"}
+{"averageTimePerEmail":"35.29s","failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-11-25T09:23:56.939Z","total":1,"totalTime":"0h 0m 35s"}
+{"level":"info","message":"Batch 31 completed in 35.30s","timestamp":"2024-11-25T09:23:56.942Z"}
+{"level":"info","message":"Starting batch 32/100","timestamp":"2024-11-25T09:23:56.942Z"}
+{"level":"info","message":"Starting to process 1 PDF files at 2024-11-25T09:23:56.943Z","timestamp":"2024-11-25T09:23:56.943Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 62.87s","timestamp":"2024-11-25T09:24:59.810Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0 | Time: 0h 1m 2s","timestamp":"2024-11-25T09:24:59.811Z"}
+{"averageTimePerEmail":"62.87s","failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-11-25T09:24:59.814Z","total":1,"totalTime":"0h 1m 2s"}
+{"level":"info","message":"Batch 32 completed in 62.87s","timestamp":"2024-11-25T09:24:59.816Z"}
+{"level":"info","message":"Starting batch 33/100","timestamp":"2024-11-25T09:24:59.817Z"}
+{"level":"info","message":"Starting to process 1 PDF files at 2024-11-25T09:24:59.818Z","timestamp":"2024-11-25T09:24:59.818Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 25.29s","timestamp":"2024-11-25T09:25:25.111Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0 | Time: 0h 0m 25s","timestamp":"2024-11-25T09:25:25.112Z"}
+{"averageTimePerEmail":"25.30s","failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-11-25T09:25:25.115Z","total":1,"totalTime":"0h 0m 25s"}
+{"level":"info","message":"Batch 33 completed in 25.31s","timestamp":"2024-11-25T09:25:25.130Z"}
+{"level":"info","message":"Starting batch 34/100","timestamp":"2024-11-25T09:25:25.132Z"}
+{"level":"info","message":"Starting to process 1 PDF files at 2024-11-25T09:25:25.133Z","timestamp":"2024-11-25T09:25:25.133Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 21.50s","timestamp":"2024-11-25T09:25:46.633Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0 | Time: 0h 0m 21s","timestamp":"2024-11-25T09:25:46.633Z"}
+{"averageTimePerEmail":"21.50s","failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-11-25T09:25:46.635Z","total":1,"totalTime":"0h 0m 21s"}
+{"level":"info","message":"Batch 34 completed in 21.50s","timestamp":"2024-11-25T09:25:46.637Z"}
+{"level":"info","message":"Starting batch 35/100","timestamp":"2024-11-25T09:25:46.637Z"}
+{"level":"info","message":"Starting to process 1 PDF files at 2024-11-25T09:25:46.638Z","timestamp":"2024-11-25T09:25:46.638Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 23.08s","timestamp":"2024-11-25T09:26:09.716Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0 | Time: 0h 0m 23s","timestamp":"2024-11-25T09:26:09.718Z"}
+{"averageTimePerEmail":"23.08s","failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-11-25T09:26:09.720Z","total":1,"totalTime":"0h 0m 23s"}
+{"level":"info","message":"Batch 35 completed in 23.10s","timestamp":"2024-11-25T09:26:09.736Z"}
+{"level":"info","message":"Starting batch 36/100","timestamp":"2024-11-25T09:26:09.746Z"}
+{"level":"info","message":"Starting to process 1 PDF files at 2024-11-25T09:26:09.765Z","timestamp":"2024-11-25T09:26:09.765Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 37.54s","timestamp":"2024-11-25T09:26:47.319Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0 | Time: 0h 0m 37s","timestamp":"2024-11-25T09:26:47.320Z"}
+{"averageTimePerEmail":"37.56s","failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-11-25T09:26:47.323Z","total":1,"totalTime":"0h 0m 37s"}
+{"level":"info","message":"Batch 36 completed in 37.56s","timestamp":"2024-11-25T09:26:47.325Z"}
+{"level":"info","message":"Starting batch 37/100","timestamp":"2024-11-25T09:26:47.325Z"}
+{"level":"info","message":"Starting to process 1 PDF files at 2024-11-25T09:26:47.327Z","timestamp":"2024-11-25T09:26:47.327Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 33.17s","timestamp":"2024-11-25T09:27:20.496Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 1 | Failed: 0 | Time: 0h 0m 33s","timestamp":"2024-11-25T09:27:20.498Z"}
+{"averageTimePerEmail":"33.17s","failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-11-25T09:27:20.501Z","total":1,"totalTime":"0h 0m 33s"}
+{"level":"info","message":"Batch 37 completed in 33.18s","timestamp":"2024-11-25T09:27:20.506Z"}
+{"level":"info","message":"Starting batch 38/100","timestamp":"2024-11-25T09:27:20.507Z"}
+{"level":"info","message":"Starting to process 1 PDF files at 2024-11-25T09:27:20.509Z","timestamp":"2024-11-25T09:27:20.509Z"}
+{"code":"ESOCKET","command":"CONN","errno":-4077,"level":"error","message":"Error processing 2022A7PS0181G after 26.63s: read ECONNRESET","stack":"Error: read ECONNRESET\n    at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)","syscall":"read","timestamp":"2024-11-25T09:27:47.139Z"}
+{"averageTimePerEmail":"N/A","failed":0,"level":"info","message":"Processing completed","processed":0,"successful":0,"timestamp":"2024-11-25T09:28:08.251Z","total":1,"totalTime":"0h 0m 47s"}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-11-25T09:28:27.265Z"}
+{"level":"info","message":"Starting PDF processing script...","timestamp":"2024-11-25T09:28:27.271Z"}
+{"level":"info","message":"Starting batch 1/100","timestamp":"2024-11-25T09:28:27.272Z"}
+{"level":"info","message":"Starting to process 2 PDF files at 2024-11-25T09:28:27.280Z","timestamp":"2024-11-25T09:28:27.280Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 10.95s","timestamp":"2024-11-25T09:28:38.226Z"}
+{"level":"info","message":"Progress: 50.00% (1/2) | Success: 1 | Failed: 0 | Time: 0h 0m 10s","timestamp":"2024-11-25T09:28:38.228Z"}
+{"averageTimePerEmail":"10.95s","failed":0,"level":"info","message":"Processing completed","processed":1,"successful":1,"timestamp":"2024-11-25T09:28:38.230Z","total":2,"totalTime":"0h 0m 10s"}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-12-07T09:45:59.709Z"}
+{"level":"info","message":"Starting PDF processing script...","timestamp":"2024-12-07T09:45:59.713Z"}
+{"level":"info","message":"Starting to process 1 PDF files","timestamp":"2024-12-07T09:45:59.721Z"}
+{"level":"info","message":"Starting PDF protection for: 2022A7PS0181G.pdf","timestamp":"2024-12-07T09:45:59.722Z"}
+{"level":"info","message":"Protected PDF saved to: answer-sheets\\2022A7PS0181G_protected.pdf","timestamp":"2024-12-07T09:45:59.812Z"}
+{"level":"error","message":"Error processing 2022A7PS0181G: PDF protection verification failed","stack":"Error: PDF protection verification failed\n    at C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\index.js:309:17\n    at async Promise.allSettled (index 0)\n    at async processDirectory (C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\index.js:294:21)\n    at async main (C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\index.js:372:21)","timestamp":"2024-12-07T09:45:59.859Z"}
+{"level":"info","message":"Progress: 100.00% (1/1) | Success: 0 | Failed: 1","timestamp":"2024-12-07T09:46:03.972Z"}
+{"failed":1,"level":"info","message":"Processing completed","processed":1,"successful":0,"timestamp":"2024-12-07T09:46:03.974Z","total":1}
+{"details":[{"error":"PDF protection verification failed","id":"2022A7PS0181G","status":"failed"}],"failed":1,"level":"info","message":"Processing completed successfully","processed":1,"successful":0,"timestamp":"2024-12-07T09:46:03.975Z","total":1}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-12-07T09:47:01.653Z"}
+{"level":"info","message":"Starting PDF processing script...","timestamp":"2024-12-07T09:47:01.658Z"}
+{"level":"info","message":"Starting to process 2 PDF files","timestamp":"2024-12-07T09:47:01.662Z"}
+{"level":"error","message":"Email sending error for f20220181@goa.bits-pilani.ac.in: Failed to protect PDF with password: Command failed: qpdf --encrypt f20222022A7PS0181G f20222022A7PS0181G 256 -- answer-sheets\\2022A7PS0181G.pdf answer-sheets\\2022A7PS0181G_protected.pdf\n'qpdf' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n","timestamp":"2024-12-07T09:47:01.691Z"}
+{"level":"error","message":"Error processing 2022A7PS0181G: Failed to protect PDF with password: Command failed: qpdf --encrypt f20222022A7PS0181G f20222022A7PS0181G 256 -- answer-sheets\\2022A7PS0181G.pdf answer-sheets\\2022A7PS0181G_protected.pdf\n'qpdf' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n","stack":"Error: Failed to protect PDF with password: Command failed: qpdf --encrypt f20222022A7PS0181G f20222022A7PS0181G 256 -- answer-sheets\\2022A7PS0181G.pdf answer-sheets\\2022A7PS0181G_protected.pdf\n'qpdf' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n\n    at protectPDF (C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\server.js:162:11)\n    at sendEmail (C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\server.js:169:30)\n    at C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\server.js:228:15\n    at Array.map (<anonymous>)\n    at processDirectory (C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\server.js:221:55)\n    at async main (C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\server.js:284:21)","timestamp":"2024-12-07T09:47:01.693Z"}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-12-07T09:51:13.887Z"}
+{"level":"info","message":"Processing PDFs in answer-sheets directory","timestamp":"2024-12-07T09:51:13.889Z"}
+{"level":"info","message":"Starting to process PDFs in answer-sheets directory","timestamp":"2024-12-07T09:51:13.890Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 12.03s","timestamp":"2024-12-07T09:51:25.924Z"}
+{"level":"info","message":"Processed 1 PDFs in 12.04s","timestamp":"2024-12-07T09:51:25.927Z"}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-12-07T09:53:50.174Z"}
+{"level":"info","message":"Processing PDFs in answer-sheets directory","timestamp":"2024-12-07T09:53:50.176Z"}
+{"level":"info","message":"Starting to process PDFs in answer-sheets directory","timestamp":"2024-12-07T09:53:50.177Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 11.12s","timestamp":"2024-12-07T09:54:01.354Z"}
+{"level":"info","message":"Processed 1 PDFs in 11.18s","timestamp":"2024-12-07T09:54:01.355Z"}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-12-07T09:58:49.440Z"}
+{"level":"info","message":"Processing PDFs in answer-sheets directory","timestamp":"2024-12-07T09:58:49.442Z"}
+{"level":"info","message":"Starting to process PDFs in answer-sheets directory","timestamp":"2024-12-07T09:58:49.443Z"}
+{"level":"error","message":"Error processing 2022A7PS0181G after 0.00s: Invalid file ID format: 2022A7PS0181G","stack":"Error: Invalid file ID format: 2022A7PS0181G\n    at getEmailFromId (C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\without-pswd.js:80:11)\n    at processPDFs (C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\without-pswd.js:186:25)\n    at async main (C:\\Users\\Swapnil\\OneDrive\\Desktop\\paper-distribution-automator\\without-pswd.js:235:21)","timestamp":"2024-12-07T09:58:49.447Z"}
+{"level":"info","message":"Processed 1 PDFs in 4.01s","timestamp":"2024-12-07T09:58:53.454Z"}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-12-07T09:59:48.098Z"}
+{"level":"info","message":"Processing PDFs in answer-sheets directory","timestamp":"2024-12-07T09:59:48.100Z"}
+{"level":"info","message":"Starting to process PDFs in answer-sheets directory","timestamp":"2024-12-07T09:59:48.100Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 22.14s","timestamp":"2024-12-07T10:00:10.244Z"}
+{"level":"info","message":"Processed 1 PDFs in 22.14s","timestamp":"2024-12-07T10:00:10.244Z"}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-12-07T10:06:21.056Z"}
+{"level":"info","message":"Processing PDFs in answer-sheets directory","timestamp":"2024-12-07T10:06:21.066Z"}
+{"level":"info","message":"Starting to process PDFs in answer-sheets directory","timestamp":"2024-12-07T10:06:21.066Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 12.29s","timestamp":"2024-12-07T10:06:33.361Z"}
+{"level":"info","message":"Successfully processed 2022A7PS1274G in 10.47s","timestamp":"2024-12-07T10:06:43.829Z"}
+{"level":"info","message":"Successfully processed 2022B1A41016G in 10.31s","timestamp":"2024-12-07T10:06:54.142Z"}
+{"level":"info","message":"Processed 3 PDFs in 33.08s","timestamp":"2024-12-07T10:06:54.142Z"}
+{"level":"info","message":"Initialization completed successfully","timestamp":"2024-12-07T10:08:46.758Z"}
+{"level":"info","message":"Processing PDFs in answer-sheets directory","timestamp":"2024-12-07T10:08:46.770Z"}
+{"level":"info","message":"Starting to process PDFs in answer-sheets directory","timestamp":"2024-12-07T10:08:46.771Z"}
+{"level":"info","message":"Successfully processed 2022A7PS0181G in 12.98s","timestamp":"2024-12-07T10:08:59.759Z"}
+{"level":"info","message":"Processed 1 PDFs in 12.99s","timestamp":"2024-12-07T10:08:59.759Z"}

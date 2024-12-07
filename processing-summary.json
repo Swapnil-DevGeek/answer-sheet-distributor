@@ -1,0 +1,14 @@
+{
+  "timestamp": "2024-12-07T09:46:03.975Z",
+  "total": 1,
+  "processed": 1,
+  "successful": 0,
+  "failed": 1,
+  "details": [
+    {
+      "id": "2022A7PS0181G",
+      "status": "failed",
+      "error": "PDF protection verification failed"
+    }
+  ]
+}
